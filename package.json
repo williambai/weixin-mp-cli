@@ -1,0 +1,33 @@
+{
+  "name": "webot-cli",
+  "version": "0.0.11",
+  "description": "Command line interface for weixin-robot",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/node-webot/webot-cli.git"
+  },
+  "dependencies": {
+    "colors": "~0.6.0",
+    "xml2js": "~0.2.6",
+    "commander": "~2.2.0",
+    "inquirer": "~0.4.1",
+    "prettyjson": "~0.8.1",
+    "request": "~2.16.6",
+    "lodash": "~1.1.1",
+    "nopt": "~2.1.1"
+  },
+  "devDependencies": {
+  },
+  "bin": {
+    "webot": "bin/webot"
+  },
+  "keywords": [
+    "weixin",
+    "webot",
+    "cli",
+    "wechat"
+  ],
+  "author": "Jesse Yang <kissmud@gmail.com>",
+  "license": "MIT"
+}
