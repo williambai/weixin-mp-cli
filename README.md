@@ -1,4 +1,4 @@
-# webot-cli
+# weixin-mp-cli 微信公众号命令行
 
 fix bug for Command line interface for [webot-cli](https://github.com/node-webot/webot-cli).
 
