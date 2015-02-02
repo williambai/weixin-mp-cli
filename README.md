@@ -1,6 +1,6 @@
 # webot-cli
 
-Command line interface for [weixin-robot](https://github.com/node-webot/weixin-robot).
+fix bug for Command line interface for [webot-cli](https://github.com/node-webot/webot-cli).
 
     npm install webot-cli -g
 
